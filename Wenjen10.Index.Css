@@ -31,8 +31,8 @@ body {
 .navbar a {
   float: none;
   display: block; 
-  color: white; /* White text color */
-  text-align: center; /* Center the text */
+  color: white; 
+  text-align: center; /* Text centered */
     text-decoration: rgb(180, 167, 92)
 }
 
@@ -41,10 +41,10 @@ body {
   float: right; /* Float a link to the right */
 }
 
-    /* Change color on hover/mouse-over if I can make it work! */
+    /* Change color on hover/mouse-over.*/
 .navbar a:hover {
   background-color: #ddd; /* Grey background color */
-  color: black; /* Black text color */
+  color: black; 
 }
 
 
