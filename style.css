@@ -1,6 +1,6 @@
 style.header h1
  {
-  padding: 80px; 
+  padding: 100px; 
   text-align: center; 
   background: #1abc9c; 
   color: white; 
@@ -65,7 +65,7 @@ body {
 
 /* Main column */
 .main { 
-  flex: 70%; 
+  flex: 80%; 
   background-color: white; 
   padding: 30px; 
 }
